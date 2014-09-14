@@ -1,0 +1,22 @@
+{
+  "name": "NoesisEnergy.github.io",
+  "version": "0.0.1",
+  "description": "Noesis Style Guide Website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoesisEnergy/NoesisEnergy.github.io.git"
+  },
+  "author": "paden",
+  "bugs": {
+    "url": "https://github.com/NoesisEnergy/NoesisEnergy.github.io/issues"
+  },
+  "homepage": "http://noesisEnergy.github.io",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^1.4.0",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}
