@@ -1,0 +1,124 @@
+.bgnd
+{
+background-repeat:no-repeat; 
+background-attachment:fixed; 
+background-position:center; 
+background-image:url('https://noesisimg.s3.amazonaws.com/Marketing/pages/building-cluster-sansfeather.svg');
+background-color:#FFF;
+padding:0;
+}
+
+.seethrublu
+{
+background-color:rgba(195,237,241,0.9);
+}
+
+.seethrugry
+{
+background-color:rgba(225,225,225,0.9);
+}
+
+.corallght
+{
+background-color:#F49082;
+}
+
+.redlght{
+background-color:#C0463D;
+}
+
+.lghtyellow {
+background-color:#EFA438
+}
+
+.formedit
+{
+margin-bottom:10px;
+}
+
+.marketing-nav>li.active
+{
+	color:#3399cc;
+	border-style:none;
+	border-bottom:3px solid #3399cc;
+}
+
+.buttontextcolor{
+	color:#FFF;
+}
+
+.entranceimg
+{
+	visibility: hidden;
+}
+
+
+.arrowdown{
+	display: block; 
+	max-width: 100%; 
+	margin: -5px auto;  
+	padding: 0;
+}
+
+
+.graph-image {
+padding-right: 0;
+padding-bottom: 0;
+position: relative;
+overflow: hidden;
+background: #FFF url(https://noesisimg.s3.amazonaws.com/Marketing/pages/analytics-graph.svg) 100% 100% no-repeat;
+background-size: contain;
+}
+
+.benchmarkingimg{
+padding-right: 0;
+padding-bottom: 0;
+position: relative;
+overflow: hidden;
+background: #FFF url(https://noesisimg.s3.amazonaws.com/Marketing/pages/blank-graph.png) 100% 100% no-repeat;
+background-size: contain;
+}
+
+.jumboedit{
+	padding:0px;
+	background-color:transparent;
+}
+
+.ne-create-account {
+padding: 0 0 5%;
+background: url(https://noesisimg.s3.amazonaws.com/nb-images/clouds.svg);
+background-size: cover;
+background-repeat: repeat;
+background-position: 40px bottom;
+background-color: #DEEFF1;
+}
+
+.formpadding {
+	padding-left:50px;
+	padding-right:50px;
+	border:none;
+}
+
+.navmargintop
+{
+	margin-top:50px;
+	z-index:1020;
+}
+
+.whitetext:hover {
+	color:#FFF;
+	text-decoration: underline;
+}
+
+.cursorpointer{
+	cursor:pointer;
+}
+
+.yellowborder {
+border: .3em solid #ff9900;
+}
+
+.mktg-pg-img {
+	height: 125px;
+	width: 125px;
+}
