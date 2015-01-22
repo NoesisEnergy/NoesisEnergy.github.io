@@ -1477,6 +1477,12 @@ a.list-group-item:focus
     background: #a0c335;
     box-shadow: 0px 2px 0px #617c01;
 }
+.ne-4b-bg /*  text-green  */
+{
+    border: none;
+    background: #10AE99;
+    box-shadow: 0px 2px 0px #0B6052;
+}
 .ne-5-bg /* lt-blue  */
 {
     background: #c3edf2
