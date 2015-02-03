@@ -635,8 +635,8 @@ a.thumbnail:hover,a.thumbnail:focus{border-color:#ff9900;}
 .alert>p,.alert>ul{margin-bottom:0;}
 .alert>p+p{margin-top:5px;}
 .alert-dismissable{padding-right:35px;}.alert-dismissable .close{position:relative;top:-2px;right:-21px;color:inherit;}
-.alert-success{background-color:#dff0d8;border-color:#d6e9c6;color:#99cc33;}.alert-success hr{border-top-color:#c9e2b3;}
-.alert-success .alert-link{color:#7aa329;}
+.alert-success{background-color:#037761;border-color:#10AE99;color:#10AE99;}.alert-success hr{border-top-color:#10AE99;}
+.alert-success .alert-link{color:#10AE99;}
 .alert-info{background-color:#ddf4ff;border-color:#b9f4ff;color:#3399cc;}.alert-info hr{border-top-color:#a0f0ff;}
 .alert-info .alert-link{color:#297aa3;}
 .alert-warning{background-color:#ffedd1;border-color:#ffddc2;color:#ff9900;}.alert-warning hr{border-top-color:#ffcfa8;}
