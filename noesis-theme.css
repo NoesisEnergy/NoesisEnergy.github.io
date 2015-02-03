@@ -1667,3 +1667,5 @@ border-top-right-radius: 4px;
 .panel-info>.panel-heading>.panel-title {
 color: #3399cc;
 }
+.alert-success{background-color:#e4f9f5;border-color:#cfeae5;color:#10AE99;}.alert-success hr{border-top-color:#10AE99;}
+.alert-success .alert-link{color:#10AE99;}
