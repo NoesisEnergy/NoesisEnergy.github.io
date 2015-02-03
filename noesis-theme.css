@@ -1669,3 +1669,7 @@ color: #3399cc;
 }
 .alert-success{background-color:#e4f9f5;border-color:#cfeae5;color:#10AE99;}.alert-success hr{border-top-color:#10AE99;}
 .alert-success .alert-link{color:#10AE99;}
+.alert-white.alert-success .icon, .alert-white.alert-success .icon:after {
+border-color: #10AE99;
+background: #10AE99;
+}
