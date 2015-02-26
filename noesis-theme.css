@@ -1104,6 +1104,9 @@ a:hover
 /* ** Typography *
    ==================================================
    ================================================== */
+body {
+font-size: 16px;
+}
 h1, h2, h3,
 .h1, .h2, .h3
 {
@@ -1120,10 +1123,17 @@ h2, .h2 {
 h3, .h3 {
     font-size:22px;
 }
+h4, .h4 {
+    font-weight:400;
+}
 
 h1, h2, h3, h4
 {
     color: #444
+}
+h5, h6
+{
+    color: #999
 }
 
 label
@@ -1144,6 +1154,7 @@ label
 {
     font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
     font-weight: 700;
+    letter-spacing: 2px;
 }
 
 /* ** Bootstrap Mods (should be added to repo) *
@@ -1171,7 +1182,7 @@ label
 .btn
 {
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 400;
 }
 .btn-primary
 {
