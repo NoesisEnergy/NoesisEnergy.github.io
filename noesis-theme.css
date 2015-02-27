@@ -1063,7 +1063,7 @@ a>.label:hover
 ul.pagination li.active a,
 ul.pagination li.active a:hover
 {
-    border-color: #666;
+    border-color: #999;
 }
 .pagination>li>a,.pagination>li>span
 {
@@ -1093,8 +1093,8 @@ ul.pagination li.active a:hover
 {
     z-index:2;
     color:#fff;
-    background-color:#666;
-    border-color:#666;
+    background-color:#999;
+    border-color:#999;
     cursor:default
     }
 /* ** Misc **
@@ -1249,9 +1249,9 @@ label
 {
     color: #666;
     border: 1px solid #e2e2e2;
-    -webkit-box-shadow: 0px 2px 0px #b0b0b0;
-    box-shadow: 0px 2px 0px #b0b0b0;
-    -moz-box-shadow: 0px 2px 0px #b0b0b0;
+    -webkit-box-shadow: 0px 2px 0px #e2e2e2;
+    box-shadow: 0px 2px 0px #e2e2e2;
+    -moz-box-shadow: 0px 2px 0px #e2e2e2;
     background: #f7f7f7;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#f7f7f7'); /* for IE */
     background: -webkit-gradient(linear, left top, left bottom, from(#ffff), to(#f7f7f7)); /* for webkit browsers */
