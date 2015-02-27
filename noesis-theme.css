@@ -1216,8 +1216,8 @@ label
 }
 .btn-default
 {
-    color: #777;
-    border: 1px solid #666;
+    color: #666;
+    border: 1px solid #e2e2e2;
     -webkit-box-shadow: 0px 2px 0px #b0b0b0;
     box-shadow: 0px 2px 0px #b0b0b0;
     -moz-box-shadow: 0px 2px 0px #b0b0b0;
@@ -1229,7 +1229,7 @@ label
 .btn-default:hover
 {
     background: #fff;
-    border: 1px solid #666;
+    border: 1px solid #e2e2e2;
 }
 .btn.btn-bs-default
 {
