@@ -122,25 +122,3 @@ border: .3em solid #ff9900;
 	height: 125px;
 	width: 125px;
 }
-.btn-grey
-{
-    color: #666;
-    font-weight: 5000;
-    border: 1px solid #e2e2e2;
-    text-transform: none;
-    background: #fff;
-    background: -moz-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
-    background: -webkit-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
-    background: -o-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
-    background: -ms-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);/*For IE10*/
-    background: linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
-    -webkit-box-shadow: 0px 2px 0px #b32317;
-    box-shadow: 0px 2px 0px #b32317;
-    -moz-box-shadow: 0px 2px 0px #b32317;
-   
-}
-.btn-grey:hover
-{
-    color: #666;
-    background-color: #fff;
-}
