@@ -1232,7 +1232,8 @@ label
 }
 .btn-default:hover
 {
-    background: #ffffff
+    color: #666;
+    background-color: #fff;
 }
 .btn.btn-bs-default
 {
