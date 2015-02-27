@@ -1063,7 +1063,7 @@ a>.label:hover
 ul.pagination li.active a,
 ul.pagination li.active a:hover
 {
-    border-color: #e2e2e2;
+    border-color: #666;
 }
 .pagination>li>a,.pagination>li>span
 {
@@ -1085,24 +1085,17 @@ ul.pagination li.active a:hover
 }
 .pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus
 {
-    color:#999;
-    background-color:#666;
+    color:#666;
+    background-color:#fff;
     border-color:#e2e2e2
     }
 .pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus
 {
     z-index:2;
-    color:#999;
+    color:#fff;
     background-color:#666;
-    border-color:#e2e2e2;
+    border-color:#666;
     cursor:default
-    }
-.pagination>.disabled>span,.pagination>.disabled>span:hover,.pagination>.disabled>span:focus,.pagination>.disabled>a,.pagination>.disabled>a:hover,.pagination>.disabled>a:focus
-{
-    color:#ddd;
-    background-color:#fff;
-    border-color:#e2e2e2;
-    cursor:not-allowed
     }
 /* ** Misc **
    ==================================================
