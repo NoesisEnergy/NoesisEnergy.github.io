@@ -1085,7 +1085,7 @@ ul.pagination li.active a:hover
 }
 .pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus
 {
-    color:#fff;
+    color:#999;
     background-color:#fff;
     border-color:#ddd
     }
