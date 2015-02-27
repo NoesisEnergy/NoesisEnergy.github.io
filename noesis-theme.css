@@ -1224,7 +1224,7 @@ label
     background: #f7f7f7;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f7f7f7'); /* for IE */
     background: -moz-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
-    background: -webkit-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f7f7f7));
     background: -o-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
     background: -ms-linear-gradient(to bottom,#fff 0,#f7f7f7 100%);/*For IE10*/
     background: linear-gradient(to bottom,#fff 0,#f7f7f7 100%);
