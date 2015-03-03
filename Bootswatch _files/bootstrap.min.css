@@ -611,13 +611,27 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 .pager .disabled>a,.pager .disabled>a:hover,.pager .disabled>a:focus,.pager .disabled>span{color:#999999;background-color:#ffffff;cursor:not-allowed;}
 .label{display:inline;padding:.2em .6em .3em;font-size:75%;font-weight:bold;line-height:1;color:#ffffff;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:.25em;}.label[href]:hover,.label[href]:focus{color:#ffffff;text-decoration:none;cursor:pointer;}
 .label:empty{display:none;}
-.label-default{background-color:#999999;}.label-default[href]:hover,.label-default[href]:focus{background-color:#808080;}
+.label-default{background-color:#ccc;}.label-default[href]:hover,.label-default[href]:focus{background-color:#808080;}
 .label-primary{background-color:#fd5e3f;}.label-primary[href]:hover,.label-primary[href]:focus{background-color:#fc340d;}
-.label-success{background-color:#99cc33;}.label-success[href]:hover,.label-success[href]:focus{background-color:#7aa329;}
+.label-success{background-color:#10AE99;}.label-success[href]:hover,.label-success[href]:focus{background-color:#7aa329;}
 .label-info{background-color:#3399cc;}.label-info[href]:hover,.label-info[href]:focus{background-color:#297aa3;}
 .label-warning{background-color:#ff9900;}.label-warning[href]:hover,.label-warning[href]:focus{background-color:#cc7a00;}
 .label-danger{background-color:#b32317;}.label-danger[href]:hover,.label-danger[href]:focus{background-color:#861a11;}
-.badge{display:inline-block;min-width:10px;padding:3px 7px;font-size:12px;font-weight:bold;color:#333333;line-height:1;vertical-align:baseline;white-space:nowrap;text-align:center;background-color:#999999;border-radius:10px;}.badge:empty{display:none;}
+.badge{display:inline-block;min-width:10px;padding:3px 7px;font-size:12px;font-weight:bold;color:#ccc;line-height:1;vertical-align:baseline;white-space:nowrap;text-align:center;background-color:#999999;border-radius:10px;}.badge:empty{display:none;}
+.badge {
+display: inline-block;
+min-width: 10px;
+padding: 3px 7px;
+font-size: 12px;
+font-weight: 700;
+color: #e1e1e1;
+line-height: 1;
+vertical-align: baseline;
+white-space: nowrap;
+text-align: center;
+background-color: #ccc;
+border-radius: 10px;
+}
 a.badge:hover,a.badge:focus{color:#ff9900;text-decoration:none;cursor:pointer;}
 .btn .badge{position:relative;top:-1px;}
 a.list-group-item.active>.badge,.nav-pills>.active>a>.badge{color:#ff9900;background-color:#ffffff;}
