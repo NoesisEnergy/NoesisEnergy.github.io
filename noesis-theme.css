@@ -1716,3 +1716,6 @@ color: #3399cc;
 border-color: #10AE99;
 background: #10AE99;
 }
+.progress-bar-success {
+  background-color: #55C9A6;
+}
