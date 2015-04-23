@@ -833,6 +833,13 @@ a [class^="icon-"], a [class*=" icon-"]
     -webkit-animation : spin 1s infinite linear;
     animation         : spin 1s infinite linear;
 }
+
+.btn-link:hover, .btn-link:focus {
+  color: #ff9900;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
 .btn-file
 {
     position: relative;
