@@ -1524,13 +1524,17 @@ a.list-group-item:focus
     background: #f90;
     box-shadow: 0px 2px 0px #d26301;
 }
-.ne-4-bg /* success green  */
+.ne-4-bg /* success green no box-shadow */
 {
     border: none;
-    background: #a0c335;
-    box-shadow: 0px 2px 0px #617c01;`
+    background: #10AE99;
 }
-.ne-4b-bg /*  text-green  */
+.ne-4a-bg /* success light green  */
+{
+    border: none;
+    background: #94d3c7;
+}
+.ne-4b-bg /*  success green  */
 {
     border: none;
     background: #10AE99;
