@@ -1046,6 +1046,7 @@ a [class^="icon-"], a [class*=" icon-"]
 .alert
 {
     border: .2em dashed;
+    font-size: 16px;
 }
 .alert-danger.alert-empty
 {
