@@ -1304,7 +1304,7 @@ label
 {
     background: #ff9900
 }
-.btn-group .btn-info {
+.btn-group .btn-warning {
     border: 1px solid #e68a00;
 }
 .btn-danger
@@ -1340,7 +1340,7 @@ label
 {
     background: #10AE99
 }
-.btn-group .btn-info {
+.btn-group .btn-success {
     border: 1px solid #14A186;
 }
 .panel-title
