@@ -1243,7 +1243,7 @@ label
     background: #fd5e3f
 }
 .btn-group>.btn-primary {
-    border-color: #fd4926;
+    border-color: 1px solid #fd4926;
 }
 .btn-info
 {
@@ -1261,7 +1261,7 @@ label
     background: #3399cc
 }
 .btn-group>.btn-info {
-    border-color: #2e8ab8;
+    border-color: 1px solid #2e8ab8;
 }
 .btn-default
 {
@@ -1305,7 +1305,7 @@ label
     background: #ff9900
 }
 .btn-group>.btn-info {
-    border-color: #e68a00;
+    border-color: 1px solid #e68a00;
 }
 .btn-danger
 {
@@ -1341,7 +1341,7 @@ label
     background: #10AE99
 }
 .btn-group>.btn-info {
-    border-color: #14A186;
+    border-color: 1px solid #14A186;
 }
 .panel-title
 {
