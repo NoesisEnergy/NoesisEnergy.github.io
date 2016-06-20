@@ -1824,6 +1824,7 @@ ul.pagination li.active a, ul.pagination li.active a:hover, ul.pagination li a:h
     padding-top: .8em;
     padding-bottom: .8em;
     text-transform: none;
+    color: #444;
 }
 
 @media (max-width: 1200px)
