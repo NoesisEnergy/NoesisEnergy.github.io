@@ -1775,6 +1775,92 @@ ul.pagination li.active a, ul.pagination li.active a:hover, ul.pagination li a:h
     background-color: #999;
     color: white;
 }
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    text-transform: capitalize;
+}
+.navbar-inverse .dropdown-menu
+{
+    background-color: #FFF;
+    border: transparent;
+}
+.navbar-inverse  .dropdown-menu li>a
+{
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    text-transform: none;
+    font-size: 15px;
+}
+.navbar-inverse .dropdown-menu>li>a:hover {
+    color: #FFF;
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus
+{
+    color: #fff;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus
+{
+    color: #fff;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus
+{
+    box-shadow: 0px 2px 0px rgba(51, 51, 51, 0.75);
+    outline: none;
+}
+.navbar-inverse .navbar-toggle .icon-bar
+{
+    background-color: #ccc
+}
+.navbar-inverse .dropdown-menu li>a {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    border-bottom: 1px dotted #e1e1e1;
+    padding-top: .8em;
+    padding-bottom: .8em;
+    text-transform: none;
+}
+
+@media (max-width: 1200px)
+{
+    .navbar-inverse .dropdown-menu>li>a
+    {
+        color: #fff;
+    }
+
+    .navbar-inverse .left-hamburger.dropdown-menu>li>a
+    {
+        color: #333;
+    }
+}
+
+.navbar-inverse .dropdown-menu .sub-nav li>a {
+    color:#444;
+}
+.navbar-inverse .dropdown-menu .sub-nav li>a:hover {
+    color:#ffffff;
+}
+.navbar-inverse .dropdown-menu li>a:hover {
+    color:#ffffff;
+}
+
+.navbar-inverse .dropdown-menu {
+    background-color: #fff;
+    border: transparent;
+}
+ .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    box-shadow: none;
+    outline: none;
+}
 .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
     color: #fff;
     background-color: transparent;
