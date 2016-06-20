@@ -1901,3 +1901,7 @@ ul.pagination li.active a, ul.pagination li.active a:hover, ul.pagination li a:h
 {
     color: #777;
 }
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: transparent;
+    color: #fff;
+}
