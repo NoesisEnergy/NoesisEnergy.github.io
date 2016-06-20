@@ -1865,3 +1865,38 @@ ul.pagination li.active a, ul.pagination li.active a:hover, ul.pagination li a:h
     color: #fff;
     background-color: transparent;
 }
+.navbar-inverse .btn.nt-btn-signin-top
+{
+    padding-bottom: 4px;
+    margin-top: 10px;
+    color: white;
+    text-transform: none;
+    font-family: 'Raleway',Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    background: transparent;
+}
+.navbar-inverse .btn.nt-btn-signin-top:hover
+{
+    color: white;
+}
+ .navbar-inverse .ne-header-avatar .navbar-nav .open .dropdown-menu>li>a
+    {
+        color: inherit;
+        padding: .8em;
+    }
+    .navbar-inverse .ne-header-avatar .navbar-nav .open .dropdown-menu>li>a:hover
+    {
+        color: #fff;
+        background-color: #3399cc;
+    }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form  {
+    border: none;
+}
+.navbar.navbar-white .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+  color: #777;
+  border-right: none;
+}
+.navbar.navbar-white .nav .open>a>i, .navbar-inverse .nav .open>a>i:hover, .navbar-inverse .nav .open>a>i:focus,  .navbar-inverse .nav .open>a>i:active
+{
+    color: #777;
+}
